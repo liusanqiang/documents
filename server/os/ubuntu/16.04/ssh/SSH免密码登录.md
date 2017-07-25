@@ -18,5 +18,16 @@ $ sudo vim /etc/sudoers
 ```text
 tianshuo ALL = NOPASSWD: ALL
 ```
+![/etc/sudoers](./images/sudoers.png)
 
-![网路配置图](./images/sudoers.png)
+
+## 允许ssh key登录
+```bash
+$ sudo vim /etc/ssh/sshd_config
+```
+将RSAAuthentication和PubkeyAuthentication改为yes
+```text
+RSAAuthentication yes
+PubkeyAuthentication yes
+```
+![ssh/sshd_config](./images/sshd_config.png)

@@ -12,7 +12,11 @@ $ chmod 600 authorized_keys
 
 ## sudo 免密码
 ```bash
-sudo vim /etc/sudoers
+$ sudo vim /etc/sudoers
 ```
-增加 tianshuo ALL = NOPASSWD: ALL
+增加 
+```text
+tianshuo ALL = NOPASSWD: ALL
+```
+
 ![网路配置图](./images/sudoers.png)

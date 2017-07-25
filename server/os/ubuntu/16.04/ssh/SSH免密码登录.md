@@ -21,7 +21,7 @@ tianshuo ALL = NOPASSWD: ALL
 ![/etc/sudoers](./images/sudoers.png)
 
 
-## 允许ssh key登录
+## 允许ssh登录
 ```bash
 $ sudo vim /etc/ssh/sshd_config
 ```

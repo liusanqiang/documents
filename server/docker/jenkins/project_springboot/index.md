@@ -14,10 +14,10 @@
 ![config_github_webhook](images/config_github_webhook.png)
 
 ## 构建环境选择Send files or execute commands over SSH after the build runs
-Source files: target/*.jar Dockerfile
-Remote prefix: 不填
-Remote directory: ./evergreen-service
-Exec command: 代码如下
+Source files: target/*.jar Dockerfile<br>
+Remote prefix: 不填<br>
+Remote directory: ./evergreen-service<br>
+Exec command: 代码如下<br>
 ```bash
 sudo docker stop evergreen-service || true \
 && sudo docker rm evergreen-service || true \

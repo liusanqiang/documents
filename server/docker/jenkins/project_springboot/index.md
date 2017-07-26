@@ -14,7 +14,7 @@
 ![config_github_webhook](images/config_github_webhook.png)
 
 ## 构建环境选择Send files or execute commands over SSH after the build runs
-![config_github_webhook](images/config_github_webhook.png)
+![config_build_env](images/config_build_env.png)
 代码部分如下
 ```bash
 sudo docker stop evergreen-service || true \

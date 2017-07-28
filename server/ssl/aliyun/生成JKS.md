@@ -10,6 +10,3 @@ Enter Export Password: 123456
 ```bash
 $ keytool -importkeystore -deststorepass 123456 -destkeypass 123456 -destkeystore ts.jks -srckeystore pkcs.p12 -srcstoretype PKCS12 -srcstorepass 123456 -alias ts
 ```
-
-
-

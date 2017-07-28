@@ -6,4 +6,4 @@
 
 - [Docker 安装 Jenkins](docker/jenkins/index.md)
 
-- [证书服务](ssl/aliyun/生成JKS.md)
+- [证书服务](ssl/index.md)

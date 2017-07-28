@@ -1,4 +1,4 @@
-# 使用阿里云免费的DV SSL证书生成JKS
+# 使用阿里云 Symantec 免费型DV SSL 生成JKS
 
 ## 生成 pkcs12
 ```bash

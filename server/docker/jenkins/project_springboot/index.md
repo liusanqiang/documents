@@ -26,6 +26,7 @@ sudo docker stop evergreen-service || true \
 && sudo docker build --rm --no-cache=true  -t evergreen-service-images ./ || true \
 && sudo docker run -d  --name evergreen-service -p 3000:3000 evergreen-service-images
 ```
+高级中 Exec timeout (ms): 1800000 
 ![config_build_env](images/config_build_env.png)
 
 

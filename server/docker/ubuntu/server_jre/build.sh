@@ -1,1 +1,0 @@
-sudo docker build --rm --no-cache=true -t tslearn/ubuntu-16.04:server-jre-8u144 ./

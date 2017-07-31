@@ -28,5 +28,3 @@ sudo docker stop evergreen-service || true \
 ```
 高级中 Exec timeout (ms): 1800000 
 ![config_build_env](images/config_build_env.png)
-
-

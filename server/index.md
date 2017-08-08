@@ -8,4 +8,6 @@
 
 - [zookeeper](zookeeper/index.md)
 
+- [kafka](kafka/index.md)
+
 - [证书服务](ssl/index.md)

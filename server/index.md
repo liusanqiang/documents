@@ -6,6 +6,6 @@
 
 - [Jenkins](docker/jenkins/index.md)
 
-- [zookeeper](docker/zookeeper/index.md)
+- [zookeeper](zookeeper/index.md)
 
 - [证书服务](ssl/index.md)

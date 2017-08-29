@@ -1,4 +1,5 @@
 # documents
 
-## [Server](https://github.com/tslearn/documents/blob/master/server/index.md)
+## [Mac OS](macos/index.md)
+## [Server](server/index.md)
 
